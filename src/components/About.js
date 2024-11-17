@@ -50,7 +50,7 @@ era in sustainable and dependable electric transportation.
           <div className="team-info">
             <h3>Vedang Sharma</h3>
             <p>Chief Technology Officer</p>
-            <p>Shivi drives our technological advancements, ensuring our vehicles remain at the cutting edge of performance and efficiency.</p>
+            <p>Vedang drives our technological advancements, ensuring our vehicles remain at the cutting edge of performance and efficiency.</p>
           </div>
         </div>
       </section>
