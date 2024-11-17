@@ -48,7 +48,7 @@ era in sustainable and dependable electric transportation.
         <div className="team-member">
           <img src="https://via.placeholder.com/150" alt="Team Member 2" />
           <div className="team-info">
-            <h3>Shivi Sharma</h3>
+            <h3>Vedang Sharma</h3>
             <p>Chief Technology Officer</p>
             <p>Shivi drives our technological advancements, ensuring our vehicles remain at the cutting edge of performance and efficiency.</p>
           </div>
