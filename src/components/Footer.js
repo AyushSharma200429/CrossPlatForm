@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="contact-details">
             <p><strong>Mail:</strong> <a href="mailto:info@rhyno.in">info@rhyno.in</a></p>
             <p><strong>Mobile no.:</strong> <a href="tel:+919023987528">+91-9023987528</a></p>
-            <p><strong>Location:</strong> Rhyno Wheels Private Limited, Near UG hostel gate #2, Behind PDEU, Raisan, Gandhinagar, Gujarat, India.</p>
+            <p><strong>Location:</strong> Rhyno Wheels Private Limited, Near UG hostel gate #2, Jaipur, Rajasthan, India.</p>
           </div>
         </div>
         <div className="footer-right">
